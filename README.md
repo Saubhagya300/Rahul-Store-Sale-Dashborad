@@ -1,1 +1,2 @@
-Rahul store wants to create an annual sales report for 2022. So that, Rahul can understand their customers and grow more sales in 2023.
+# Rahul Store Sales Dashboard
+Rahul Store wants to create an annual sales reports for 2022, so that Store can understand their customers and grow more sales in 2023. Compare the sales and orders using a single chart, Which month got the highest sales and orders. Finding who purchased more men or women in 2022. Finding different order status in 2022 and top 5 most state contributing to the sales ,relation between age and gender based on several order
